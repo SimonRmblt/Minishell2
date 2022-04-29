@@ -2,11 +2,11 @@
 Minishell in C done during my first year at Epitech
 
 ## Use
+To compile
 ```
 make
 ```
-To compile and
+To launch
 ```
 ./mysh
 ```
-to launch the binary
